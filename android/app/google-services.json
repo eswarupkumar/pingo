@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716223896941",
+    "project_id": "pingo-tracker",
+    "storage_bucket": "pingo-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716223896941:android:2e5e0c91ba6ab78b124e64",
+        "android_client_info": {
+          "package_name": "com.example.pingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_K4_Az2-buVsfQoRUftezbx8p_3QHrp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
